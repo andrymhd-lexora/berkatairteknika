@@ -1,0 +1,6 @@
+{
+  "name": "Berkat Air Teknika - Solusi Air dan Teknologi",
+  "description": "Website resmi Berkat Air Teknika: Solusi Rekayasa Pengolahan Air Limbah & Lingkungan, Inovasi Garam Berkualitas Tinggi, Penerapan Ekonomi Sirkular, dan Sistem Klorinasi & Scrubber Industri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
